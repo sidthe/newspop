@@ -1,3 +1,5 @@
+#### A stupid app that gets me headlines from Engadget in the morning ####
+
 import urllib2
 from termcolor import colored
 import difflib
